@@ -15,3 +15,4 @@ compinents required for the writing machine:
           3) Expansion board A4988 is a driver expansion board, can be used for working machines and 3D printers. It has four slots and can drive four stepper motor
      
           4) MG995 Metal Gear Servo Motor is a high-speed standard servo can rotate approximately 180 degrees. it receives and process PWM signal faster.
+          \dgdliygdigf   
