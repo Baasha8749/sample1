@@ -1,0 +1,17 @@
+Hii my name is ____
+My teammates are __, __, __
+We are from francis Xavier engineering college
+Now we are going to explain our project ok lets go to the video
+
+
+
+compinents required for the writing machine:  
+          1) 2pcs of stepper motor and is used for accurate positioning with a motor,robotics, antennas, telescopes etc..
+                 
+         
+          2) Arduino uno r3 is a microcontroller board based on the ATmega328P . It has 14 digital input/output pins , 6 analog inputs, a USB connection, a power jack and a reset button.
+
+
+          3) Expansion board A4988 is a driver expansion board, can be used for working machines and 3D printers. It has four slots and can drive four stepper motor
+     
+          4) MG995 Metal Gear Servo Motor is a high-speed standard servo can rotate approximately 180 degrees. it receives and process PWM signal faster.
